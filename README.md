@@ -51,8 +51,8 @@ I aspire to grow in the fields of **Software Development**, **AI**, and **Machin
 
 ### 📫 Connect with Me
 
-- LinkedIn: [linkedin.com/in/vanisingh](https://www.linkedin.com/in/vanisingh) *(update with your actual link)*
-- Email: your.email@example.com *( vani48273@gmail.com)*
+- LinkedIn: [linkedin.com/in/vanisingh](https://www.linkedin.com/in/vani singh) 
+- Email: *( vani48273@gmail.com)*
 - Portfolio (coming soon!)
 
 ---
