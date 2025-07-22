@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm Vani Singh 👋</h1>
 <h3 align="center">BCA Student | Aspiring Software Developer | Python & AI/ML Enthusiast</h3>
 
